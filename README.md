@@ -239,3 +239,5 @@ MIT License
 ---
 
 **注意**: 本工具使用 unsafe 代码以获得最佳性能，需要在项目设置中启用 "允许不安全代码"。
+
+Made with Kiro for Unity Developers
