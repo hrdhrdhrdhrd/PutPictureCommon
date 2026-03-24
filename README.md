@@ -219,7 +219,6 @@ public class CustomImageProcessor : IImageProcessor
 ## 环境要求
 
 - .NET Framework 4.7.2 或更高版本
-- Windows 操作系统
 - 支持的图片格式：JPG, PNG, BMP, GIF, TIFF
 - 需要启用"允许不安全代码"选项
 
